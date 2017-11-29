@@ -4,6 +4,12 @@
 ### 1st task
 733. Flood Fill
 
+### 2nd task
+734. Sentence Similarity
+
+### 3rd task
+735. Asteroid Collision
+
 # LeetCode Weekly Contest 55
 ## 22.10.2017
 
